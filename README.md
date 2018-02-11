@@ -8,6 +8,6 @@ Some text starts to grow.
 And after this line, you will see python code.
 
 ```python
-string = 'Hello World!
+string = 'Hello World!'
 print(string)
 ```
