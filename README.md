@@ -7,7 +7,7 @@ Some text starts to grow.
 
 And later, you will see python code.
 
-'''python
+```python
 string = 'Hello World!
 print(string)
-'''
+```
